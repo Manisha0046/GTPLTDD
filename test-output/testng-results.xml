@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82195" started-at="2019-01-19T13:09:45Z" finished-at="2019-01-19T13:11:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82195" started-at="2019-01-19T13:09:45Z" finished-at="2019-01-19T13:11:07Z">
+      <class name="SeleniumPractice.GTPLTDD.Test.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumPractice.GTPLTDD.Test.LoginPageTest@146ba0ac]" name="setup" is-config="true" duration-ms="44489" started-at="2019-01-19T18:39:45Z" finished-at="2019-01-19T18:40:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginNegativeTestScneario()[pri:0, instance:SeleniumPractice.GTPLTDD.Test.LoginPageTest@146ba0ac]" name="LoginNegativeTestScneario" duration-ms="12371" started-at="2019-01-19T18:40:29Z" finished-at="2019-01-19T18:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginNegativeTestScneario -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumPractice.GTPLTDD.Test.LoginPageTest@146ba0ac]" name="tearDown" is-config="true" duration-ms="423" started-at="2019-01-19T18:40:42Z" finished-at="2019-01-19T18:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumPractice.GTPLTDD.Test.LoginPageTest@146ba0ac]" name="setup" is-config="true" duration-ms="16808" started-at="2019-01-19T18:40:42Z" finished-at="2019-01-19T18:40:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginPositiveTestScneario()[pri:1, instance:SeleniumPractice.GTPLTDD.Test.LoginPageTest@146ba0ac]" name="LoginPositiveTestScneario" duration-ms="4106" started-at="2019-01-19T18:40:59Z" finished-at="2019-01-19T18:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPositiveTestScneario -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumPractice.GTPLTDD.Test.LoginPageTest@146ba0ac]" name="tearDown" is-config="true" duration-ms="3858" started-at="2019-01-19T18:41:03Z" finished-at="2019-01-19T18:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumPractice.GTPLTDD.Test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
